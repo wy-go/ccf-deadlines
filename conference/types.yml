@@ -1,21 +1,21 @@
 ---
-- name: 计算机体系结构/并行与分布计算/存储系统
+- name: Computer Architecture/Parallel and Distributed Computing/Storage Systems
   sub: DS
-- name: 计算机网络
+- name: Computer Networks
   sub: NW
-- name: 网络与信息安全
+- name: Network and Information Security
   sub: SC
-- name: 软件工程/系统软件/程序设计语言
+- name: Software Engineering/System Software/Programming Languages
   sub: SE
-- name: 数据库/数据挖掘/内容检索
+- name: Databases/Data Mining/Information Retrieval
   sub: DB
-- name: 计算机科学理论
+- name: Computer Science Theory
   sub: CT
-- name: 计算机图形学与多媒体
+- name: Computer Graphics and Multimedia
   sub: CG
-- name: 人工智能
+- name: Artificial Intelligence
   sub: AI
-- name: 人机交互与普适计算
+- name: Human-Computer Interaction and Ubiquitous Computing
   sub: HI
-- name: 交叉/综合/新兴
+- name: Interdisciplinary/Integrated/Emerging
   sub: MX
